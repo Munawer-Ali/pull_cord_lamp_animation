@@ -10,10 +10,6 @@ Everything is drawn with `CustomPainter` and moved by a small physics loop.
 No images and no animation packages. The only dependency is `sensors_plus`,
 for the tilt.
 
-## Demo
-
-_Screen recording to go here: save one as `docs/demo.gif` and link it._
-
 ## Running it
 
 ```sh
